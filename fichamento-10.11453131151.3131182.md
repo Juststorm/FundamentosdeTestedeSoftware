@@ -16,7 +16,7 @@ O artigo apresenta um videogame para incentivar o aprendizado de teste de softwa
 
 ## 3. Fichamento de Citações
 
-* "Isso pode estar relacionado com a deficiência na formação dos prossionais de teste ou por desmotivação no ambiente de trabalho e também pelas estratégias de alocação e responsabilização desses prossionais nas equipes de desenvolvimento e teste."
+* "Isso pode estar relacionado com a deficiência na formação dos profissionais de teste ou por desmotivação no ambiente de trabalho e também pelas estratégias de alocação e responsabilização desses profissionais nas equipes de desenvolvimento e teste."
 * "Em geral, observou-se que os cursos de graduação da área de computação não proporcionam aos estudantes uma visão integrada dos conteúdos de teste de software com outras disciplinas."
 * "Em geral, é impossível garantir a inexistência de defeitos no software, então o teste é utilizado na prática para dar uma segurança da qualidade do produto desenvolvido."
 * "É importante ressaltar que essas técnicas não devem ser utilizadas separadamente, já que as mesmas são complementares na execução da atividade de teste."
