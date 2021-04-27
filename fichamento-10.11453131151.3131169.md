@@ -14,7 +14,7 @@ O artigo trata de Testes de Mutação e busca dar continuidade aos estudos desen
 
 ## 3. Fichamento de Citações
 
-* "O Teste de Mutação gera, por meio dos operadores de mutação, versões do programa em teste contendo possíveis defeitos. Assumindo que o programa original está correto, é necessário construir testes que mostrem que o mutante e o programa original se comportem de maneira diferente e, nesse caso, descartando a possibilidade do programa possuir o defeito representado pelo mutante"
+* "O Teste de Mutação gera, por meio dos operadores de mutação, versões do programa em teste contendo possíveis defeitos. Assumindo que o programa original está correto, é necessário construir testes que mostrem que o mutante e o programa original se comportem de maneira diferente e, nesse caso, descartando a possibilidade do programa possuir o defeito representado pelo mutante"
 * "A hipótese do programador competente parte da premissa de que programadores experientes escrevem programas bem próximos de estarem corretos"
 * "Para que um op gere mutantes é necessário que o programa original contenha as estruturas sintáticas exigidas pelo operador para criar os mutantes."
 * "Nesse estudo foi empregada apenas a linguagem C e, assim, tais resultados não podem ser estendidos automaticamente para outras linguagens de programação."
