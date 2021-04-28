@@ -1,0 +1,22 @@
+# A Inter-relação entre testes automáticos de software e a gamificação do ensino de teste
+
+>_Esta composição textual é elaborada a partir de uma análise e inter-relação entre dois artigos de pesquisa: “Incremental Strategy for Applying Mutation Operators Emphasizing Faults Difficult to be Detected by Automated Static Analyser”, de Vinícius Barcelos Silva, Cláudio Antônio Araújo, Edmundo Sérgio Spoto e Auri M R Vincenzi e “Testing Game: An Educational Game to Support Sofware Testing Education”, de Pedro Henrique Dias Valle, Rafaela Vilela Rocha e José Carlos Maldonado
+O alicerce deste texto são questionamentos._
+
+O primeiro artigo trata sobre a automatização dos testes de mutação por meio de ferramentas automáticas disponíveis no mercado, seus resultados, benefícios, malefícios, limitações. O segundo texto, busca mitigar um problema da formação de profissionais de TI, através de um videogame: a falta de especialistas em teste de software no geral. 
+
+Nesta inter-relação, o primeiro questionamento independente que poderia levantar é: **qual a eficiência e confiabilidade de softwares automáticos de teste e por que criar mais deles?** Isso é, os resultados apresentados pelo artigo I são convincentes, mas até que ponto? Por que seria mais fácil confiar em um software fechado (ou quem sabe aberto) em vez de criar e utilizar os seus próprios teste de mutação? Até quando isso é bom e até quando isso é ruim? No cenário atual, estudamos se vale ou não a pena criar mais deles. 
+
+Em segundo, um questionamento fundado na relação dos dois artigos, inicialmente: **a complexidade dos testes de software afastam os profissionais ou o interesse por conhecer a área?** O fato que é trazido pelo segundo texto mostra que não há muitos estudantes se formando e partindo para área de teste de software - e nem que há investimento nas graduações para com o assunto. Seria a área muito complexa ou desafiadora ao extremo para os alunos ou recém-formados?
+
+Próximo, questionamos: **como a _gamificação_ de alguma determinada coisa, neste caso do teste de software, impacta em seu aprendizado e por fim em sua eficácia?** O texto I fala de teste de mutação desempenhados por ferramentas automáticas, mas para chegarmos até elas, precisamos de profissionais aptos para desenvolvê-las - especialistas em testes de mutação, no exemplo. Será que transformar alguma coisa em jogo, isso é, _gamificar_, contribui positivamente ou negativamente para o aprendizado? E para o resultado final? Será que as pessoas aprenderiam mesmo ou se tornariam dispersas - quem sabe o que elas podem ou não levar dali, passar para frente.
+
+Por fim, um questionamento como um _ultimato_: **É necessário implantar todas as etapas do teste de software. Qual a eficácia real de uma ferramenta automática que trata só do teste de mutação e não das outras etapas?** No texto II e durante nosso aprendizado, observamos que não vale de nada aplicar somente uma etapa do teste de software. Elas são complementares, funcionam em razão da outra. A explicação para esse questionamento é o seguinte: por que não investir em um suite complmenta de "teste de software" em vez de só uma aplicação para "testar mutação"? Teríamos todas as especialidades dentro de um ambiente, construídas seguindo a mesma lógica ou modelo, quem sabe maximizando sua eficiência.
+
+Pauto então, novamente, as perguntas:
+1. qual a eficiência e confiabilidade de softwares automáticos de teste e por que criar mais deles?
+2. a complexidade dos testes de software afastam os profissionais ou o interesse por conhecer a área?
+3. como a _gamificação_ de alguma determinada coisa, neste caso do teste de software, impacta em seu aprendizado e por fim em sua eficácia?
+4. É necessário implantar todas as etapas do teste de software. Qual a eficácia real de uma ferramenta automática que trata só do teste de mutação e não das outras etapas?
+
+Concluindo a inter-relação, vemos que faltam profissionais. Vemos também que os testes de mutação automáticos podem ser confiáveis, mas até que ponto? Como chegar até eles? Seria a _gamificação_ um caminho para ensinar isso tipo de coisa? Uma área tão importante na engenharia de _software_, que é o Teste de Software, não pode ser deixada de lado ou menosprezada em hipótese alguma. Como os _softwares_ que são em sua essência, estariam o jogo _"Testing Game"_ e as aplicações apresentadas (Proteum/IM e Splint) à prova de falhas e atendendo o seu propósito objetivamente e eficientemente?
