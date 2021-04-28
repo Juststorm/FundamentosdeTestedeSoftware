@@ -1,6 +1,6 @@
-# A Inter-relação entre testes automáticos de software e a gamificação do ensino de teste
+# A Inter-relação entre testes automáticos de software e a gamificação do ensino de teste de software (artigos)
 
->_Esta composição textual é elaborada a partir de uma análise e inter-relação entre dois artigos de pesquisa: “Incremental Strategy for Applying Mutation Operators Emphasizing Faults Difficult to be Detected by Automated Static Analyser”, de Vinícius Barcelos Silva, Cláudio Antônio Araújo, Edmundo Sérgio Spoto e Auri M R Vincenzi e “Testing Game: An Educational Game to Support Sofware Testing Education”, de Pedro Henrique Dias Valle, Rafaela Vilela Rocha e José Carlos Maldonado
+>_Esta composição textual é elaborada a partir de uma análise e inter-relação entre dois artigos de pesquisa: “Incremental Strategy for Applying Mutation Operators Emphasizing Faults Difficult to be Detected by Automated Static Analyser”, de Vinícius Barcelos Silva, Cláudio Antônio Araújo, Edmundo Sérgio Spoto e Auri M R Vincenzi e “Testing Game: An Educational Game to Support Sofware Testing Education”, de Pedro Henrique Dias Valle, Rafaela Vilela Rocha e José Carlos Maldonado.
 O alicerce deste texto são questionamentos._
 
 O primeiro artigo trata sobre a automatização dos testes de mutação por meio de ferramentas automáticas disponíveis no mercado, seus resultados, benefícios, malefícios, limitações. O segundo texto, busca mitigar um problema da formação de profissionais de TI, através de um videogame: a falta de especialistas em teste de software no geral. 
